@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-chroma
+langchain-community
+langchain-core
+langchain-huggingface
+chromadb
+pymupdf
+huggingface-hub
